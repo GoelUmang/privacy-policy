@@ -11,7 +11,7 @@ The privacy policy is available in the `privacy-policy.html` file in this reposi
 1. Clone the repository to your local machine.
 2. Open the `privacy-policy.html` file in your browser.
 
-Alternatively, you can view the privacy policy live at [[Your Hosted Privacy Policy URL](https://goelumang.github.io/privacy-policy/)](#).
+Alternatively, you can view the privacy policy live at [[here](https://goelumang.github.io/privacy-policy/)](#).
 
 ## Contact
 
